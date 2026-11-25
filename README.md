@@ -13,6 +13,11 @@ Models, textures, sounds, missions, and voices. These are not in this repository
 
 In short: the code is free software, the name is not, and the game data comes separately. This license covers the source code only and grants no rights to the trademarks.
 
+# Summary
+Frozen War is a graphics-focused project, aiming to achieve true-to-life visuals with the help of shaders and PBR textures. The textures and shaders are modular, meant to be easily replaceable and created. Animations, models and gameplay are secondary focuses at the current stage of the project.
+
+# Progress
+![Frozen War progress stage 1](assets/main-page/progress.png)
 
 ## Quick Start
 
